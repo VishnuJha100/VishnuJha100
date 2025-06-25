@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vishnu Deb Jha</h1>
+<h1 align="center"><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishnu+Deb+Jha;Developer+%7C+Coder+%7C+Learner" alt="Typing SVG" />
+</p>
+</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
@@ -33,8 +36,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VishnuJha100&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuJha100&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuJha100&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
