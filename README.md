@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Full Stack Development** and exploring **AI/ML**
 - 💻 I love building web applications and experimenting with new technologies
 - 🛠️ Projects I'm proud of:
-  - [Code Sensei](https://code-sensei-beta.vercel.app/) – AI-powered code review web app
+  - [Mini CDN](https://mini-cdn-app.onrender.com/) – AI-powered code review web app
   - [Other Projects](https://github.com/VishnuJha100?tab=repositories) – Explore more on my profile
 - 📫 Reach me at **jhavishnu100@gmail.com**
 
@@ -27,7 +27,7 @@
 - **Languages:** JavaScript, C++, Python
 - **Frontend:** React, Tailwind CSS, HTML/CSS
 - **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, PostgreSQL
+- **Databases:** MongoDB, PostgreSQL, Redis
 - **Tools & Platforms:** Git, GitHub, VS Code, Figma
 
 ---
