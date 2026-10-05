@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Full Stack Development** and exploring **AI/ML**
 - 💻 I love building web applications and experimenting with new technologies
 - 🛠️ Projects I'm proud of:
-  - [Mini CDN](https://mini-cdn-app.onrender.com/) – AI-powered code review web app
+  - [Mini CDN](https://mini-cdn-app.onrender.com/) – Redis based CDN (simplified)
   - [Other Projects](https://github.com/VishnuJha100?tab=repositories) – Explore more on my profile
 - 📫 Reach me at **jhavishnu100@gmail.com**
 
